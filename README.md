@@ -1,2 +1,3 @@
 # hello-world
-Just a first trial
+
+Hello everyone, i am Mike and i am absolutely new to github!
